@@ -8,7 +8,7 @@ const Footer = () => {
         <span>Micah E. Puzio</span>
       </a>
       <a
-        href="" //input my github link here
+        href="https://github.com/micihs/TouchType/tree/master#touchtype" //input my github link here
         className="icon__hover small anchor"
       >
         <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
